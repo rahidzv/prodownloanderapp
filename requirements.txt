@@ -1,0 +1,8 @@
+# Pro Downloader v1 — Requirements
+# Install with: pip install -r requirements.txt
+
+kivy>=2.3.0
+kivymd>=1.2.0
+yt-dlp>=2024.1.1
+requests>=2.31.0
+tiktok-downloader>=0.0.6   # optional, yt-dlp fallback used if absent
