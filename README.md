@@ -150,5 +150,4 @@ Platformaların (TikTok, YouTube, Instagram və s.) **İstifadə Şərtləri**ni
 ## Müəllif
 
 - Developer: **Zahirov Rahid**  
-- Telefon: **+994 51 491 22 93**  
 - E‑poçt: **zahirovrahid040@gmail.com**
